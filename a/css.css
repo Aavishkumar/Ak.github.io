@@ -63,8 +63,8 @@ img.icon{
 .row{
 	margin-left: 20px;
 	margin-left:30%;
-	transition: 1s;
+	transition: .5s all ease-in-out;
 }
 .row:hover{
-	transform:scale(1.2);
+	transform:scale(1.3);
 }
